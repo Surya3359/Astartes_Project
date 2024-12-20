@@ -1,8 +1,11 @@
 {
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "concurrently": "^9.1.0",
     "lerna": "^8.1.9",
-    "turbo": "^2.3.3"
+    "turbo": "^2.3.3",
+    "webpack": "^5.97.1",
+    "webpack-dev-server": "^5.2.0"
   },
   "workspaces": [
     "packages/*"
