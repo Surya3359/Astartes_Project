@@ -427,7 +427,7 @@
     "yargs-parser": "^21.1.1"
   },
   "scripts": {
-     "start": "lerna run start",
+    "start": "lerna run start",
     "test": "lerna run test",
     "new-version": "lerna version --conventional-commits --yes",
     "diff": "lerna diff"
